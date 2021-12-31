@@ -3,6 +3,9 @@ html,
 body {
     font-family: raleway;
 }
+.borderPage {
+    padding: 30px;
+}
 .flexCentre {
 	display: flex;
 	justify-content: center;
