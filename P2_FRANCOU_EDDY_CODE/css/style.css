@@ -68,14 +68,13 @@ body {
 }
 /* NAV */
 .sizeNav {
-    height: auto;
+height: auto;
 }
 .sizeLiens {
     width: 100%;
 }
 .sizeLien12 {
     margin-left: 60%;
-    gap: 5rem
 }
 .sizeLien {
     width: 140px;
