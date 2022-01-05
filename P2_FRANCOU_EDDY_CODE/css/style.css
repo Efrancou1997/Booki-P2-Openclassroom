@@ -482,12 +482,6 @@ height: auto;
     }
 }
 @media screen and (max-width:770px) {
-    .sizeLien {
-        width: 90%;
-    }
-    .sizeLien12 {
-        margin-left: 20%;
-    }
     .blocHebergements {
         height: auto;
     }   
