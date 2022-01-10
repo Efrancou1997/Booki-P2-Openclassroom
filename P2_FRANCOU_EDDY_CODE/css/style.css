@@ -224,6 +224,7 @@ header nav ul li:hover a {
 
 .hebergement-list a article:hover {
     box-shadow: 5px 5px 5px 0px #E2E2E2;
+    transform: scale(1.1);
 }
 
 .hebergement-list a article .fa-star.blue {
