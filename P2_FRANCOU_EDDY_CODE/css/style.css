@@ -80,7 +80,6 @@ header nav ul li:hover a {
 
 .search-box {
     display: inline-block;
-    border: 1px solid var(--grey);
     border-radius: 15px;
     width: auto;
 }
